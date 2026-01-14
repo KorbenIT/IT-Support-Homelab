@@ -66,7 +66,7 @@ Each lab folder contains:
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/korben-bishop-438a35260/) – feel free to message 
-- Or [Email Me](mailto:bishopkorben[at]gmail.com)
+- Or [Email Me](mailto:bishopkorben@gmail.com)
 
 
 ---
